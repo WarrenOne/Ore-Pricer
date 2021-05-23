@@ -1,4 +1,4 @@
 # Ore-Pricer
-A simple tool for Dual Universe to help track the value of ore collected while mining.
+![Home_Screen](https://raw.githubusercontent.com/WarrenOne/Ore-Pricer/main/Screenshots/Ore%20Pricer%20Lock%20Screen.png)
 
-![Screenshot](https://raw.githubusercontent.com/WarrenOne/Ore-Pricer/main/Screenshots/Ore%20Pricer.png)
+The Ore Pricer, brought to you by Warren Industries, helps keep track of the value of your cargo ore while mining, transportuing, or selling to independent buyers. 
