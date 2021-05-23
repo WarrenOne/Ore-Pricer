@@ -5,4 +5,5 @@ Testing edit from git
 
 Test cat:
 
-![CatImage](https://icatcare.org/app/uploads/2018/07/Thinking-of-getting-a-cat.png)
+![Screenshot](Screenshots\Ore Pricer.png)
+
