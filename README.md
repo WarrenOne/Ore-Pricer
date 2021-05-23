@@ -1,5 +1,5 @@
 # Ore-Pricer
-![Home_Screen](https://raw.githubusercontent.com/WarrenOne/Ore-Pricer/main/Screenshots/Ore%20Pricer%20Lock%20Screen.png)
+![Home-Screen](https://raw.githubusercontent.com/WarrenOne/Ore-Pricer/main/Screenshots/Ore%20Pricer%20Lock%20Screen.png)
 
 The Ore Pricer, brought to you by Warren Industries, helps keep track of the value of your cargo ore while mining, transportuing, or selling to independent buyers. 
 
@@ -12,6 +12,8 @@ The Ore Pricer, brought to you by Warren Industries, helps keep track of the val
 * Retrieves storage on startup or upon button press *(button is optional)*
 
 * Contains exported ore values to custom set the price based on current market value
+
+![Ore-Pricer-Container](https://github.com/WarrenOne/Ore-Pricer/blob/main/Screenshots/Ore%20Pricer%20Container.png) ![Ore-Pricer-Example-Value](https://github.com/WarrenOne/Ore-Pricer/blob/main/Screenshots/Ore%20Pricer%20Example%20Value.png)
 
 ## Installation Instructions
 
