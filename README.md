@@ -5,5 +5,5 @@ Testing edit from git
 
 Test cat:
 
-![Screenshot](Screenshots\Ore Pricer.png)
+![Screenshot](https://raw.githubusercontent.com/WarrenOne/Ore-Pricer/main/Screenshots/Ore%20Pricer.png)
 
